@@ -6,9 +6,9 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/NODOS-49,237-007ec6?style=for-the-badge&logo=obsidian&logoColor=white" alt="Nodos" />
-    <img src="https://img.shields.io/badge/SINAPSIS-357,000-4c1?style=for-the-badge&logo=share&logoColor=white" alt="Sinapsis" />
-    <img src="https://img.shields.io/badge/COHESI%C3%93N-98.5%25-ffcc00?style=for-the-badge&logo=target&logoColor=black" alt="Cohesión" />
+    <img src="https://img.shields.io/badge/NODOS-49,275-007ec6?style=for-the-badge&logo=obsidian&logoColor=white" alt="Nodos" />
+    <img src="https://img.shields.io/badge/SINAPSIS-~357,000-4c1?style=for-the-badge&logo=share&logoColor=white" alt="Sinapsis" />
+    <img src="https://img.shields.io/badge/COHESI%C3%93N-98.6%25-ffcc00?style=for-the-badge&logo=target&logoColor=black" alt="Cohesión" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/ESTADO-NIVEL_5.0_%E2%80%A2_MADUREZ_HIPER--CONECTADA-800080?style=for-the-badge" alt="Estado" />
@@ -121,6 +121,7 @@ El corazón de la arquitectura es el sistema de **Nodos Puente Strong**. Funcion
 | **Diccionario de Falacias** (Damborenea) | 9 partes | `04_Logica_y_Razonamiento/Diccionario_Falacias/` |
 | **Formas de Argumentos** (Damborenea) | 5 partes | `04_Logica_y_Razonamiento/Formas_de_Argumentos/` |
 | **Cauces del Razonamiento** (Damborenea) | 5 partes | `04_Logica_y_Razonamiento/Cauces_del_Razonamiento/` |
+| **Razonando Correctamente** (Willie Alvarenga) | 8 partes | `04_Logica_y_Razonamiento/Razonando_Correctamente/` |
 
 > Este pilar proporciona las herramientas para **detectar falacias**, construir **argumentos válidos** y auditar la solidez lógica de cualquier sermón o estudio bíblico.
 
@@ -141,6 +142,10 @@ El corazón de la arquitectura es el sistema de **Nodos Puente Strong**. Funcion
 | **Comentario al NT** (Partain-Reeves) | `02_Exegesis/Comentario_Partain_Reeves/` |
 | **La Iglesia del Nuevo Testamento** (Cogdill) | `07_Doctrinas/La_Iglesia_Del_Nuevo_Testamento/` |
 | **Interrogantes y Respuestas** (Reeves) | `08_Preguntas_y_Respuestas/Interrogantes_y_Respuestas/` |
+| **Música Instrumental y Adoración** (James D. Bales) | `05_Materiales/Bales_Musica_Instrumental/` |
+| **Notas Sobre Daniel** (Bill H. Reeves) | `02_Exegesis/Notas_Sobre_Daniel_Reeves/` |
+| **Isaías** (Robert Harkrider) | `02_Exegesis/Isaias_Harkrider/` |
+| **Ezequiel** (Harkrider & Hernandez) | `02_Exegesis/Ezequiel_Harkrider/` |
 
 > Este pilar provee explicaciones versículo por versículo del Nuevo Testamento y material doctrinal para resolver dudas frecuentes y entender la estructura eclesiástica.
 
@@ -222,11 +227,11 @@ Todo el contenido fue procesado algorítmicamente con scripts Python especializa
 
 | Métrica | Valor |
 |---|---|
-| Total de Nodos | **49,237** |
+| Total de Nodos | **49,275** |
 | Total de Sinapsis (enlaces) | **~357,000** |
 | Nodos con ≥5 conexiones | **13,019** (creciendo con SOC) |
-| Cohesión del grafo | **98.5%** |
-| Hubs Maestros SOC | **91** |
+| Cohesión del grafo | **98.6%** |
+| Hubs Maestros SOC | **98** |
 | Nodos Puente Strong | **12,721** |
 | Entradas de Diccionario | **9,303** |
 | Libros Bíblicos | **66** |

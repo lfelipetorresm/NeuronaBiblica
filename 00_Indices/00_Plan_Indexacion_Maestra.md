@@ -221,3 +221,41 @@ Este documento es el **Tablero de Control** y **Prompt de Ejecución** para la I
   - Enriquecimiento semántico y generación de Backlinks para conceptos, doctrinas y libros bíblicos.
   - Actualización del Índice General de la Bóveda.
 - **Estado:** ✅ Material asimilado exitosamente.
+
+### Sesión 27: Ingestión SOC Incremental - Razonando Correctamente
+- **Fecha:** 14 de Julio 2026
+- **Archivos Modificados:** Se extrajo y fragmentó el PDF "Razonando Correctamente" de Willie Alvarenga en 8 archivos en la carpeta `04_Logica_y_Razonamiento/Razonando_Correctamente/`.
+- **Acción:**
+  - Ejecución de Pipeline ETL y fragmentación guiada por índice (TOC).
+  - Enriquecimiento de frontmatter e inyección de metadatos hermenéuticos/lógicos.
+  - Ejecución de Auditor Supremo y Mantenimiento Neuronal para actualización de Índices Generales.
+- **Estado:** ✅ Material asimilado exitosamente.
+
+### Sesión 28: Ingestión SOC Incremental - Notas Sobre Daniel (Reeves)
+- **Fecha:** 14 de Julio 2026
+- **Archivos Modificados:** Se extrajo y fragmentó el EPUB "Notas Sobre Daniel" de Bill H. Reeves en 6 archivos en la carpeta `02_Exegesis/Notas_Sobre_Daniel_Reeves/`.
+- **Acción:**
+  - Ejecución de Pipeline ETL para descompresión de EPUB y limpieza de etiquetas XHTML.
+  - Asignación de frontmatter (`tipo: material_estudio`) para indexación obligatoria.
+  - Ejecución de Auditor Supremo (creó 1 nuevo Hub y generó enlaces de cohesión).
+- **Estado:** ✅ Material asimilado exitosamente.
+
+### Sesión 29: Ingestión SOC Incremental - Isaías (Harkrider)
+- **Fecha:** 14 de Julio 2026
+- **Archivos Modificados:** Se extrajo y fragmentó el EPUB "Isaías - Un Cuaderno de Estudio para Maestros" de Robert Harkrider en 3 archivos en la carpeta `02_Exegesis/Isaias_Harkrider/`.
+- **Acción:**
+  - Descompresión de archivos XHTML y extracción del contenido.
+  - Asignación de frontmatter (`tipo: material_estudio`) para asegurar presencia explícita en `00_Indice_General.md`.
+  - Auditor Supremo generó su Hub Maestro.
+- **Estado:** ✅ Material asimilado exitosamente.
+
+### Sesión 30: Ingestión SOC Incremental - Ezequiel (Harkrider)
+- **Fecha:** 14 de Julio 2026
+- **Archivos Modificados:** Se extrajo y fragmentó el EPUB "EZEQUIEL" de Robert Harkrider y Josué I. Hernandez en 3 archivos en la carpeta `02_Exegesis/Ezequiel_Harkrider/`.
+- **Acción:**
+  - Pipeline ETL estandarizado para EPUB.
+  - Asignación de frontmatter (`tipo: material_estudio`) para indexación directa.
+  - Generación de Hubs y actualización del Índice General.
+- **Estado:** ✅ Material asimilado exitosamente.
+
+
