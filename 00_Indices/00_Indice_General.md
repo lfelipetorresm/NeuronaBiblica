@@ -3,6 +3,10 @@
 ## Artículo/Guía
 - [[01_Como_Hablar_En_Publico]]
 - [[Alvarenga_Instrumentos_Adoracion]]
+- [[Exegesis_Genesis_2_24]]
+
+## Comentarios Bíblicos
+- Keil & Delitzsch (Antiguo Testamento): [[01_Genesis]] al [[17_Ester]]
 
 ## Concepto
 - [[Absoluto por Relativo]]

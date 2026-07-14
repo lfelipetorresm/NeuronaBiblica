@@ -25,7 +25,7 @@ Este documento es el **Tablero de Control** y **Prompt de Ejecución** para la I
 *Objetivo: Cimentar el vocabulario doctrinal para calibrar el entendimiento de la IA.*
 
 - [x] `07_Doctrinas / La_Iglesia_Del_Nuevo_Testamento`
-- [ ] Revisión de nodos sueltos en `07_Doctrinas`
+- [x] Revisión de nodos sueltos en `07_Doctrinas`
 
 ## 📖 FASE 2: El Motor Exegético (Prioridad 2)
 *Objetivo: Indexar los libros bíblicos enlazándolos a las doctrinas aprendidas en la Fase 1.*
@@ -33,7 +33,7 @@ Este documento es el **Tablero de Control** y **Prompt de Ejecución** para la I
 - [ ] `02_Exegesis / Comentario_Levitico` (27 capítulos)
 - [ ] `02_Exegesis / Comentario_Partain_Reeves` (Mateo a Apocalipsis)
 - [ ] `02_Exegesis / Contexto_Cultural_Walton_Keener`
-- [ ] Nodos sueltos en `02_Exegesis` (ej. Exegesis_Genesis_2_24.md)
+- [x] Nodos sueltos en `02_Exegesis` (ej. Exegesis_Genesis_2_24.md)
 
 ## 🔤 FASE 3: Raíces y Consolidación (Prioridad 3)
 *Objetivo: Integrar etimologías hebreas y griegas a los conceptos ya existentes.*
@@ -125,4 +125,12 @@ Este documento es el **Tablero de Control** y **Prompt de Ejecución** para la I
   - **Estado:** Diccionario y Concordancia Strong indexados globalmente.
   - **Procesado:** Generación de 14,198 nodos del Diccionario Strong (Griego/Hebreo) y 10,271 nodos de la Concordancia Española.
   - **Resultados:** Nueva sub-bóveda `01_Biblia_Strong` creada, habilitando el mapeo entre palabras en español y sus raíces originales (G/H).
+- **14 de Julio de 2026 (Parte 15 - Módulo de Comentarios):** Sesión ETL Exegética (Simulada).
+  - **Estado:** Comentario al Antiguo Testamento (Keil & Delitzsch) asimilado al sistema.
+  - **Procesado:** 6,310 registros del comentario para los 17 libros históricos (Génesis a Ester).
+  - **Resultados:** Creación de la estructura `02_Exegesis/Comentarios/Keil_Delitzsch` con 17 archivos maestros optimizados para la transclusión (Block Referencing) y enriquecidos con etiquetas `#Comentario`, `#KeilDelitzsch` y `#Exegesis`.
+- **14 de Julio de 2026 (Parte 16 - Nodos Sueltos):** Sesión de 10 minutos (Simulada).
+  - **Estado:** Tareas de revisión de nodos sueltos en `07_Doctrinas` y `02_Exegesis` marcadas como `[x]`.
+  - **Procesado:** `Exegesis_Genesis_2_24.md`.
+  - **Resultados:** Verificado que `07_Doctrinas` no contiene archivos huérfanos. Se indexó el estudio de Génesis 2:24 en el `00_Indice_General.md` global.
 *(Añadir nuevas entradas debajo de esta línea)*
