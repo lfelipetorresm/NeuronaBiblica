@@ -11,10 +11,14 @@
             "id": "49f41b976eb11572",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "06_Sermones_Generados/B/Bautismo/Estudio_Bautismo_SOT3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estudio_Bautismo_SOT3"
             }
           }
         ]
@@ -178,6 +182,8 @@
   },
   "active": "49f41b976eb11572",
   "lastOpenFiles": [
+    "06_Sermones_Generados/O/Ofrenda_1Cor16_Mandamiento.md",
+    "06_Sermones_Generados/O",
     "00_Indices/Tablero_Salud_NeuroBiblia.md",
     "00_Indices/00_Plan_Indexacion_Maestra.md",
     "00_Indices/Hub_00_Indices_1.md",
@@ -204,7 +210,6 @@
     "06_Sermones_Generados/M/Matrimonio/Hub_Matrimonio_1.md",
     "06_Sermones_Generados/I/Inspiracion_Biblica/Hub_Inspiracion_Biblica_1.md",
     "06_Sermones_Generados/B/Bautismo/Hub_Bautismo_1.md",
-    "06_Sermones_Generados/A/Alcohol/Hub_Alcohol_1.md",
     "scripts/audit_levitico.py",
     "scripts/soc_auditor_supremo.py",
     "scripts/audit_vault.py",
@@ -212,7 +217,6 @@
     "02_Exegesis/Comentarios",
     "scripts/etl_comentario.py",
     "01_Biblia_Strong/Diccionario/Hebreo",
-    "01_Biblia_Strong/Diccionario/Griego",
-    "01_Biblia_Strong/Diccionario"
+    "01_Biblia_Strong/Diccionario/Griego"
   ]
 }
