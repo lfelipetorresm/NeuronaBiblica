@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Sermones_Generados/P/Piedad_2Pe1_6.md",
+                "file": "00_Indices/00_Indice_Tematico.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Piedad_2Pe1_6"
+              "title": "00_Indice_Tematico"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "49f41b976eb11572",
   "lastOpenFiles": [
-    "06_Sermones_Generados/A/Alcohol/03_El_Argumento_Logico_Y_La_Ruina_Moral.md",
     "06_Sermones_Generados/P/Piedad_2Pe1_6.md",
+    "05_Glosario_y_Anexos/Reporte_Tarea_9_Archivado.md",
+    "06_Sermones_Generados/A/Alcohol/03_El_Argumento_Logico_Y_La_Ruina_Moral.md",
     "06_Sermones_Generados/P",
     "01_Biblia_Strong/Concordancia/_ON.md",
     "01_Biblia_Strong/Concordancia/Hub_Concordancia_5.md",
@@ -208,7 +209,6 @@
     "01_Biblia_Strong/Diccionario/Hebreo/Hub_Hebreo_1.md",
     "01_Biblia_Strong/Diccionario/Hebreo/Hub_Hebreo_2.md",
     "01_Biblia_Strong/Diccionario/Hebreo/Hub_Hebreo_4.md",
-    "01_Biblia_Strong/Diccionario/Hebreo/Hub_Hebreo_3.md",
     "scripts/audit_levitico.py",
     "scripts/soc_auditor_supremo.py",
     "scripts/audit_vault.py",
