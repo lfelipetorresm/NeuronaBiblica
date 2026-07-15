@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/NODOS-49,306-007ec6?style=for-the-badge&logo=obsidian&logoColor=white" alt="Nodos" />
+    <img src="https://img.shields.io/badge/NODOS-49,584-007ec6?style=for-the-badge&logo=obsidian&logoColor=white" alt="Nodos" />
     <img src="https://img.shields.io/badge/SINAPSIS-~357,000-4c1?style=for-the-badge&logo=share&logoColor=white" alt="Sinapsis" />
     <img src="https://img.shields.io/badge/COHESI%C3%93N-98.6%25-ffcc00?style=for-the-badge&logo=target&logoColor=black" alt="Cohesión" />
   </p>
@@ -237,7 +237,7 @@ Todo el contenido fue procesado algorítmicamente con scripts Python especializa
 
 | Métrica | Valor |
 |---|---|
-| Total de Nodos | **49,306** |
+| Total de Nodos | **49,584** |
 | Total de Sinapsis (enlaces) | **~357,000** |
 | Nodos con ≥5 conexiones | **13,019** (creciendo con SOC) |
 | Cohesión del grafo | **98.6%** |

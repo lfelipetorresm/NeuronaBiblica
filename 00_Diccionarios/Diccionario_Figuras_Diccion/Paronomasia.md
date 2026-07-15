@@ -1,0 +1,77 @@
+---
+titulo: "Paronomasia"
+tipo: definicion
+estado: Procesado
+etiquetas: ["#Diccionario", "#FigurasDeDiccion", "#Hermeneutica"]
+---
+
+# Paronomasia
+
+Esta figura consiste en la repetición de palabras que suenan de un modo similar, pero que no tienen necesariamente el mis­mo sentido. El vocablo procede del griego «pará» = junto a + + «onomázein» = nombrar, o poner nombre. Se llama así por­que, en esta figura, una palabra es colocada junto a otra que parece similar, y suena como si fuese una repetición de la pri­mera, pero no es la misma palabra, aunque sea similar o lo pa­rezca. Sirve para centrar nuestra atención en algo importante, precisamente echando mano de esta similaridad; a veces, se nos enseña así una lección notable; otras veces, se nos hace no­tar algún contraste importante. No es fácil conservar la figura en las traducciones. Ejemplos:
+Gen_1:2. Nótese el contraste entre los vocablos hebreos tohu y bohu y recuérdese lo dicho bajo la figura anadiplosis.
+Esta figura consiste en la repetición de palabras que suenan de un modo similar, pero que no tienen necesariamente el mis­mo sentido. El vocablo procede del griego «pará» = junto a + + «onomázein» = nombrar, o poner nombre. Se llama así por­que, en esta figura, una palabra es colocada junto a otra que parece similar, y suena como si fuese una repetición de la pri­mera, pero no es la misma palabra, aunque sea similar o lo pa­rezca. Sirve para centrar nuestra atenc)ión en algo importante, precisamente echando mano de esta similaridad; a veces, se nos enseña así una lección notable; otras veces, se nos hace no­tar algún contraste importante. No es fácil conservar la figura en las traducciones. Ejemplos:
+Gen_1:2. Nótese el contraste entre los vocablos hebreos tohu y bohu y recuérdese lo dicho bajo la figura anadiplosis.
+Gen_4:25. «... y llamó su nombre Set (hebr. shet): Porque Dios, dijo ella, me ha constituido (hebr. shath) otro hijo en lu­gar de Abel».
+Gen_9:27. «Ensanche (hebr. yapht) Dios a Jafet (hebr. yé­pheth).»
+Gen_11:9. «Por esto fue llamado el nombre de ella Babel (hebr. babel), porque allí confundió (hebr. balal) Yahweh ellen­guaje de toda la tierra.»
+Gen_18:27. «... aunque soy polvo (hebr. 'aphar) y ceniza (hebr. 'epher)». V. también Job_30:19.
+Gen_29:34. «... Ahora esta vez se juntará (hebr. yillaveh) mi marido conmigo...; por tanto, llamó su nombre Levi (hebr. le­vi = juntado).
+Gen_29:35. «... Esta vez alabaré (hebr. 'odeh) a Yahweh; por esto llamó su nombre Judá (hebr. Yehudáh)».
+Gen_41:51. «y llamó José el nombre del primogénito, Mana­sés (hebr. menasheh); porque dijo: Dios me hizo olvidar (hebr. nasshani)...»
+Gen_41:52. «y llamó el nombre del segundo, Efraím (hebr. 'ephrayim); porque dijo: Dios me hizo fructificar (hebr. hiphrani) en la tierra de mi aflicción.»
+Gen_49:8. «Judá (hebr. yehudah), te alabarán (hebr. yodukhá) tus hermanos.»
+Gen_49:16. «Dan (hebr. dan) juzgará (hebr. yadín) a su pue­blo» (v. Gen_30:6).
+Gen_49:19. «Gad (hebr. gad), una tropa (hebr. gedud) lo aco­meterá (hebr. yegudennu); mas él acometerá (hebr. yagud) al fin,»
+Exo_32:18. «Y él respondió: No es voz de alaridos (hebr. 'anoth) de fuertes, ni voz de alaridos (hebr. 'anoth) de débiles; voz de cantar (hebr. 'annoth) oigo yo.»
+Num_5:18. «... y el sacerdote tendrá en la mano las aguas amargas (hebr. mey hammarim)que traen maldición (hebr. ha­marrim»>.
+Num_18:2. «Y a tus hermanos también, la tribu de Leví, la tribu de tu padre, haz que se acerquen a ti y se junten (hebr. ve­yillavu) contigo.»
+Num_24:21. «y viendo al ceneo (hebr. haqeyni -con el artícu­lo ha-)... pon en la peña tu nido (hebr. qinnekhá).»
+Deu_30:3. Aquí, como en todos los lugares en que ocurra la frase: «Yahweh hará volver a tus cautivos» (o: «hará volver tu cautividad», lit.), vemos la paronomasia del verbo shub = vol­ver, y del nombre shebuth = cautividad (v., además, 2Cr_28:11; Neh_8:17 ; Job 43:10 ; Sal_14:7; Sal_53:6 -BH. v. 7 -; 85;1 -BH. v. 2-;  Sal_127:1 , Sal_127:4 ; Jer_30:3 , Jer_30:18 ; Jer_31:23; Jer_32:44; Jer_33:7 , Jer_33:11 , Jer_33:26 ; Jer_48:47 ; Jer_49:6 , Jer_49:39 ; Lam_2:14; Eze_16:53 ; Eze_29:14 ; Eze_39:25 ; Amo_9:14 ; Sof_2:7 ;  Sof_3:20).
+1Sa_1:27-28. Dice textualmente: «Por este niño oré; y Yahweh me dio mi petición (hebr. sh'alathi), que yo le pedí (hebr. sha'alti). Yo, pues, también lo he prestado (hebr. hish'iltihu) a Yahweh; todos los días que viva, será prestado (hebr. sha'ul) a Yahweh.»
+1Sa_13:7. «Y algunos de los hebreos (hbr. 'ivrim) pasaron (hebr. 'avru) el Jordán.» Abraham «el hebreo» (Gen_14:13) fue llamado así, probablemente) para describirle como el hombre que vino del otro lado del Eufrates y lo cruzó para pasar a la tierra de Canaán. Saúllos llama así en el v. 3. Véase también 1Sa_14:11 , 1Sa_14:21, donde los filisteos los llaman de la misma manera.
+2Sa_22:42. Dice textualmente: «Miraron en derredor (en bus­ca de ayuda), que en hebreo es yi'u), y no hubo quien salvase»(hebr. moshia'). También en Sal_18:41 (BH, v. 42). Ambos vo­cablos proceden de raíces similares: «sha 'ah» = mirar, y «yas­ha'» = salvar.
+1Cr_22:9. «por tanto, su nombre será Salomón (hebr. Shlo­moh), y yo daré paz (hebr. shalom) y reposo sobre Israel en sus días» .
+Job_11:12. Este v. es traducido muy mal en nuestras versio­nes (nota del traductor. V. R V 1977, margen). Dice textualmen­te_ «El hombre vano (hebr. nabub) se hará entendido, e. d., sabio (hebr. yillabeb), aunque pollino salvaje haya nacido.» En caste­llano diríamos: «tornará su vanidad en sanidad».
+Sal_18:7. «La tierra fue sacudida (h. vattigash) y tembló (h. vattirash). »
+Sal_22:16. (BH. v. 17); Isa_38:13. La Masorah ofrece una lista de palabras que ocurren dos veces en diferentes sentidos. Una de esas palabras es ka'ari, que ocurre en los lugares indicados. No cabe duda de que algunos códices hebreos leen ka' aru. Es probable que el texto primitivo tuviese ambos vocablos y que uno de los dos desapareciese después. Si fuese así, habríamos tenido en el original, no sólo un sentido completo, sino también una bella paronomasia, del modo siguiente: «Horadaron (h. ka'aru), como un león (h. ka'ari) mis manos y mis pies» (v. en [[elipsis]] la estructura de este pasaje).
+Sal_25:16. «... porque (estoy) solo y afligido (h. 'aní) yo (h. 'ant»> .
+Sal_39:11 (BH v. 12). «'... corriges al hombre (h. 'ish), y des­haces como polilla (h. 'ash) toda su belleza».
+Sal_40:3 (BH v. 4). «Verán (h. yir'u) esto muchos, y temerán (h. yira'u») (v. también Sal_52:6).
+Sal_56:8 (BH v. 9). «Mis huidas (h. nodi) tú has anotado; pon mis lágrimas en tu redoma (h. n'odekhá).» La semejanza de so­nido es aquí usada con la intención de poner de relieve el hecho de que las lágrimas causadas por nuestras aflicciones son muy bien tenidas en cuenta por Dios.
+Sal_64:4 (BH v. 5). «...le tiran (h. yoruhu) de improviso y nada temen (h. yira'u»).
+Sal_69:30-31 (BH vv. 31-32). «Alabaré yo el nombre de Dios con cántico (h. shir)... Y agradará a Yahweh más que sacrificio de buey (h. shor).»
+Sal_96:5. «Porque todos los dioses (h. 'elohey) de las nacio­nes (lit. de los pueblos) son meras figuras (h. 'elilim).» Esta úl­tima palabra podría traducirse por «nulidades», o «cosas de nada», pues éste es su verdadero significado. En castellano ten­dríamos la misma figura si dijéramos: «todos los dioses de las naciones son imaginaciones».
+Sal_122:6. «Pedid (h. sha'alu) por la paz (h. sh'lom) de Jeru­salén (h. y'rushalayim); serán prosperados (h. yishlayu) los que te aman.»
+Pro_18:24. El texto masorético dice literalmente: «(Hay) va­rón de amigos (h. re'cim) para su propia ruina (h. lehitro'e).» Es una paronomasia entre dos raíces diferentes, pero con un fondo común. La primera palabra procede de ra'ah = alimentar, pas­torear, asociarse, mientras que la segunda procede de ra'a' = = quebrar. Los LXX y la Vulgata lo corrigieron.
+Ecl_7:1. Lit. «El buen (h. tov) nombre (shem) es mejor que un perfume (h. shémen) que es bueno (h. tov») (v. bajo epanadiplo­sis).
+Ecl_7:6. «La risa del necio es como el crepitar de las zarzas (h. hassirim) debajo de la olla (h. hassir). Con esta figura se pone de relieve el hecho de que las zarzas, al quemarse, producen un ruido que dura sólo unos momentos; así pasa con la risa del ne­cio (comp. con Sal_58:9 ; Sal_118:12 y Ecl_2:2).
+Isa_2:19 , Isa_2:21. «... cuando él se levante para sacudir terrible­mente (h. la'arots -lit. para atemorizar-) la tierra (h. 'arets»).
+Isa_5:7. «... Esperaba justicia (h. mishpat -lit. juicio--), y he aquí violencia (h. mishpaj -lit. opresión); rectitud (h. ts'daqah -lit. justicia, no imputada, sino cumplida), y he aquí alarido (h. ts"aqah». En castellano, tendríamos la figura, aunque no tan perfecta, si decimos: «Esperaba equidad, y he aquí iniqui­dad; rectitud, y he aquí acritud.»
+Isa_7:9. «... Si vosotros no creéis (h. lo'tha'aminu), no perma­neceréis firmes (h. lo' the'amenu»). Ambos verbos proceden de la misma raíz = 'amán = sostener, nutrir (sustentar). (Comp. con Jua_8:24.)
+Isa_10:16. «... y debajo de Su gloria (h. k'bodó) encenderá (h. yeqad) una hoguera (h. yeqod) como fuego de incendio» (lit. como incendio -hebr. kiqod- de fuego).
+Isa_13:4. «... Yahweh de los ejércitos (h. tsevaoth) pasa revista a las tropas (h. tseva') para la batalla».
+Isa_13:6. «Aullad, porque cerca está el día de Yahweh; ven­drá como terrible azote (h. k'shod -k es la preposición) del To­dopoderoso (h. mish-shadday).» Con esta figura se pone de relie­ve la terrible amenaza de aquel «día», y nuestra atención se centra en el hecho de que la destrucción viene por el poder ¡precisamente del Todo-suficiente! Es como «la ira del Corde­ro», de la que leemos en Apo_6:16-17. Tenemos la misma figura en Joe_1:15.
+Isa_15:9. «Pues las aguas de Dimón se llenarán de sangre (h. dam).»
+Isa_17:1. «... He aquí que Damasco dejará de (ser) ciudad (h. me'ir), y será un montón de ruinas (h. me'i»). Este último voca­blo hebreo es usado por el profeta en lugar de la forma acos­tumbrada ma 'avi, a fin de añadir fuerza a la profecía mediante la similitud con 'ir = ciudad.
+Isa_17:2. «Las ciudades Carey) de Aroer (h. 'aro'er).» Isa_21:2. «Sube (h. 'ali), oh Elam (h. 'eylam).»
+Isa_22:18. Dice textualmente: «Envolver te envolverá (como) un ovillo (lit. bola o pelota») (hebr. tsanof yitsnafkhá ts'nefah). La idea es de confeccionar un ovillo (pelota) para tirado y recoger­lo a placer.
+Isa_24:3. «La tierra será enteramente (h. hibboq) vaciada (h. tibboq), y completamente (h. hibboz) saqueada (h. tibboz); por­que Yahweh ha pronunciado esta palabra.»
+Isa_24:4. «La tierra estuvo de luto (h. 'avlah) y se marchitó (h. navlah); languidecieron (h. 'umlalu) los altivos del pueblo de la tierra.»
+Isa_24:17-18. «Terror (h. pajad), foso (h. phajath) y trampa (h. phaj) contra ti, oh morador de la tierra. Y acontecerá que el que huya del pánico (pajad), caerá en el foso (hapajath); y el que sal­ga de en medio del foso (pajath), será preso en (la) trampa (h. bapaj») (v. Jer_48:43-44).
+Isa_25:1. «Yahweh, tú eres mi Dios; te exaltaré Caromimkhá), alabaré tu nombre (h. shimkhá).»
+Otros ejemplos, especialmente interesantes para los he­braístas, se hallan en Isa_25:6;Isa_30:16; Isa_32:6-7, Isa_32:19; Isa_41:5; Isa_54:8; Isa_57:6; Isa_61:3.
+Jer_1:11-12. «... Veo una vara de almendro (lit. vigilante, hebr. shaqed). Y me dijo Yahweh: Bien has visto; porque yo es­taré atento (lit. vigilo, hebr. shoqed) sobre mi palabra para ha­cer «la». La idea es la siguiente: Así como el almendro es el pri­mer árbol que echa flores, incluso antes de que se acabe el in­vierno, así también Dios velará y se apresurará a cumplir su palabra.
+Jer_1:17. «... no desmayes (h. tejath) ante sus rostros (h. mip­ neyhem) para que no te confunda (h. 'ajitkhá) yo ante sus ojos (h. liphneyhem»).
+Jer_10:11. «... Los dioses que no hicieron (h. 'avadu) los cie­los ni la tierra, desaparecerán (lit. perecerán -h. ye'vadu-) de la tierra y de debajo de los cielos». Es muy notable que, entre todas las profecías de Jeremías, ésta precisamente no está es­crita en hebreo, sino en caldeo (arameo), porque es un mensaje dirigido a los gentiles y a sus dioses por el Dios de Israel. Lo mismo ocurre con las porciones del libro de Daniel que están dirigidas a los gentiles: todas están en arameo, mientras que las que conciernen a Israel están todas en hebreo.
+Dan_5:26-28. Ésta es la interpretación del asunto: MENE': Contó (m'nah) Dios tu reino y le ha puesto fin. TEKEL (t'qen: Has sido pesado (t'qilta') en balanza, y fuiste hallado falto de peso. Peres: Tu reino ha sido roto (prisath) y dado a los medos y a los persas (pharás).»
+Amo_8:1-2. «Esto me ha mostrado el Señor Yahweh: He aquí un canastillo de fruta madura (lit. de verano -h. qayits, del ver­bo quts = recoger fruta madura). Y dijo: ¿Qué ves, Amós? Y res­pondí: Un canastillo de fruta madura (qayits). Y me dijo Yah­weh: (Está maduro) el fin (h. haqets) sobre mi pueblo Israel; no lo toleraré ya más.» La figura pone de relieve que Israel está listo para ser cortado del árbol (comp. con Rom_11:11-24), a cau­sa de su endurecimiento.
+Jua_4:6. «y preparó Yahweh Dios un árbol de ricino, y lo hizo crecer sobre Jonás para que hiciese sombra (h. tsel) sobre su cabeza, y le librase (h. l'hatsil) de su malestar.»
+Miq_1:10. «... revuélcate en el polvo (h. 'aphar) de la casa de Afrá (h. 'aphráh»). Los nombres de todos los lugares menciona­dos en los vv. Miq_1:10-15 son significativos y están conectados con las profecías que les conciernen respectivamente.
+Flp_3:2-3. «... guardaos de la mutilación (lit. gr. katatomé). Porque nosotros somos la circuncisión (gr. peritomé), los que en espíritu servimos a Dios y nos gloriamos en Cristo Jesús, no te­niendo confianza en la carne». Pablo viene a decir que volver a las prácticas judaicas, después de haber adquirido la libertad en Cristo, no es la verdadera circuncisión, sino una mutilación
+Flp_3:2-3. «... guardaos de la mutilación (lit. gr. katatomé). Porque nosotros somos la circuncisión (gr. peritomé), los que en espíritu servimos a Dios y nos gloriamos en Cristo Jesús, no te­niendo confianza en la carne». Pablo viene a decir que volver a las prácticas judaicas, después de haber adquirido la libertad en Cristo, no es la verdadera circuncisión, sino una mutilación innecesaria (comp. Lev_21:5; 1Re_18:28 ; Isa_15:2 ; Ose_7:14, con Rom_2:25 , Rom_2:29).
+1Ti_4:3. Este texto ha sido estudiado bajo las figuras elip­sis y zeugma; pero hay también paronomasia en una palabra omitida por elipsis. El verbo griego para «prohibirán» es kolyón­ton; lo que sugiere que el verbo omitido (necesario para el sen­tido de la frase siguiente), según es suplido correctamente en nuestras versiones, es «mandarán», que en griego es keleuónton.
+Otros ejemplos de paronomasia, no tan importantes como los analizados, pueden verse en Jer_6:1; Jer_8:13; Jer_48:2 , Jer_48:9 , Jer_48:43-44 ; Lam_2:5 ; Lam_3:47 ; Eze_7:6; Eze_12:10; Eze_24:21; Eze_25:16; Ose_8:7 ; Ose_9:15 ; Ose_12:11 ; Nah_2:10 ; Hab_2:18;  Sof_1:2 ; Sof_2:4 ; Zac_9:3 , Zac_9:5 ; Mat_21:41 ;  Mat_22:3 ;  Mat_24:7 ; Luc_21:11 ; Rom_1:29 , Rom_1:31 ; Rom_9:18 ; 1Co_9:17 ; 2Co_8:22 ; 2Co_9:8; 1Ti_1:18 ; 1Ti_6:5-6 ; Heb_5:8; Stg_5:17. De los últimos, son dignos de notar 1Ti_6:5-6 , donde vemos la conexión entre los vocablos griegos «porismós» = ganancia, con el «peirasmós» = tentación, del v. 1Ti_6:9. También Heb_5:8 , donde se nota el contraste entre los verbos «émathen» = aprendió, y «épothen» = padeció.
+ 
+
+---
+**Volver al índice:** [[00_Indice_Figuras_Diccion]]

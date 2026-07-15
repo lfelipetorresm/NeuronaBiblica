@@ -7,7 +7,7 @@ etiquetas: ["#MOC", "#Cerebro", "#Inicio"]
 
 # 🧠 Neurona Bíblica Central
 
-Bienvenido al núcleo de tu Cerebro Digital Teológico. Este ecosistema está estructurado como una red neuronal Zettelkasten, albergando más de **49,306 nodos interconectados**. 
+Bienvenido al núcleo de tu Cerebro Digital Teológico. Este ecosistema está estructurado como una red neuronal Zettelkasten, albergando más de **49,584 nodos interconectados**. 
 
 ---
 
@@ -19,6 +19,7 @@ Bienvenido al núcleo de tu Cerebro Digital Teológico. Este ecosistema está es
 *El motor exegético de raíces en Hebreo y Griego.*
 - [[Indice_Diccionario_Vine_AT]]
 - [[Indice_Diccionario_Vine_NT]]
+- [[00_Indice_Figuras_Diccion|Diccionario de Figuras de Dicción]]
 - [[00_Indice_Comentario_Partain_Reeves|Comentario al NT (Partain-Reeves)]]
 - [[00_Indice_Comentario_Levitico|Comentario al AT - Levítico (Partain)]]
 - [[00_Indice_Daniel|Notas Sobre Daniel (Reeves)]]

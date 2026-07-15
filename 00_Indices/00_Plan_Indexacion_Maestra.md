@@ -276,3 +276,9 @@ Este documento es el **Tablero de Control** y **Prompt de EjecuciÃ³n** para la I
   - InyecciÃ³n de cientos de sinapsis (enlaces bidireccionales) a reyes y profetas (`[[Acab]]`, `[[ElÃ­as]]`, etc.).
   - IntegraciÃ³n del Hub Maestro al Plan de IndexaciÃ³n.
 - **Estado:** âœ… Completado (FragmentaciÃ³n y CohesiÃ³n restaurada).
+
+### Sesión 33: ETL Diccionario de Figuras de Dicción
+- **Material:** Diccionario de Figuras de Dicción (Bullinger/Lacueva).
+- **Nodos Creados:** 278 nuevos archivos atómicos + 1 MOC.
+- **Nodos Totales Alcanzados:** 49,584.
+- **Acciones:** Extracción de .dctx SQLite, limpieza de RTF con striprtf, sanitización de títulos, generación de MOC e inyección de YAML Frontmatter con etiquetas.
